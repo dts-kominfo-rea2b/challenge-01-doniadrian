@@ -31,6 +31,7 @@ const firstUser = {
         'Bento', 'Sushi', 'Pancake', 'Eggy', 'Tempura', 'Padang', 'Tteok'
     ]
 };
+
 const secondUser = {
     name: 'Wendy',
     gender: 'M',
